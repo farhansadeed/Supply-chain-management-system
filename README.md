@@ -15,18 +15,18 @@ Clone this repository to your local machine or server:
 bash
 git clone https://github.com/your-username/supply-chain-management-system.git
 
-Import the SQL database from the database.sql file in the sql folder, using a tool like phpMyAdmin or the MySQL command line.
+- Import the SQL database from the database.sql file in the sql folder, using a tool like phpMyAdmin or the MySQL command line.
 bash
 
 mysql -u username -p database_name < sql/database.sql
 
-Update the database connection settings in the config.php file with your own database credentials:
+- Update the database connection settings in the config.php file with your own database credentials:
 php
 
 // Database connection
 $conn = new mysqli('localhost','username','password','database_name');
 
-Upload the files to your web server, or run a local web server like XAMPP or WAMP to test the system.
+- Upload the files to your web server, or run a local web server like XAMPP or WAMP to test the system.
 Usage
 
 Once the system is installed and running, you can access it from your web browser by visiting the URL of your server. You will be prompted to login or register as a new user.
