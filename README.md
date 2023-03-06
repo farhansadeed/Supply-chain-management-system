@@ -33,9 +33,9 @@ Once the system is installed and running, you can access it from your web browse
 
 Once logged in, you can navigate the different pages of the system using the sidebar menu. The main pages are:
 
-Dashboard: Overview of the current stock levels, pending orders, and recent activity.
-Products: View, add, edit, or delete products in the inventory.
-Orders: View, create, edit, or delete orders, and track their status.
-Logistics: Enter shipping information, delivery address, and special instructions for each order.
-Profile: Update your personal information and change your password.
+- Dashboard: Overview of the current stock levels, pending orders, and recent activity.
+- Products: View, add, edit, or delete products in the inventory.
+- Orders: View, create, edit, or delete orders, and track their status.
+- Logistics: Enter shipping information, delivery address, and special instructions for each order.
+- Profile: Update your personal information and change your password.
 
