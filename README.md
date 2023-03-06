@@ -19,11 +19,13 @@ Import the SQL database from the database.sql file in the sql folder, using a to
 bash
 
 mysql -u username -p database_name < sql/database.sql
+
 Update the database connection settings in the config.php file with your own database credentials:
 php
 
 // Database connection
 $conn = new mysqli('localhost','username','password','database_name');
+
 Upload the files to your web server, or run a local web server like XAMPP or WAMP to test the system.
 Usage
 
