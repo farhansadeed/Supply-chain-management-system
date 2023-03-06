@@ -9,8 +9,8 @@ This is a web-based application for managing inventory, orders, and logistics in
 - Responsive design: Mobile-friendly layout that adapts to different screen sizes and devices.
 
 # Requirements
-A web server running PHP
-MySQL database
+- A web server running PHP
+- MySQL database
 
 # File structure
 - index.php - The landing page of the application that allows users to add product information and order entries
