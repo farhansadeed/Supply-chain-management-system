@@ -8,6 +8,17 @@ This is a web-based application for managing inventory, orders, and logistics in
 - User authentication: Secure login and registration for users, with password encryption and email verification.
 - Responsive design: Mobile-friendly layout that adapts to different screen sizes and devices.
 
+# Requirements
+A web server running PHP
+MySQL database
+
+# File structure
+- index.php - The landing page of the application that allows users to add product information and order entries
+- view-products.php - A page that displays all product information
+- view-orders.php - A page that displays all order entries
+- login.php - A page for users to log in and access the application
+- register.php - A page for new users to create an account
+
 # Installation
 To install this system on a server, follow these steps:
 
