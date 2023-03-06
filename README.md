@@ -11,10 +11,6 @@ This is a web-based application for managing inventory, orders, and logistics in
 # Installation
 To install this system on a server, follow these steps:
 
-Clone this repository to your local machine or server:
-bash
-git clone https://github.com/your-username/supply-chain-management-system.git
-
 - Import the SQL database from the database.sql file in the sql folder, using a tool like phpMyAdmin or the MySQL command line.
 bash
 
