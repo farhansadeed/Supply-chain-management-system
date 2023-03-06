@@ -2,11 +2,11 @@
 This is a web-based application for managing inventory, orders, and logistics in a supply chain. It was built using PHP and MySQL, and can be used by businesses of any size to streamline their operations and improve efficiency.
 
 # Features
-Inventory management: Add, edit, and delete products, and track their stock levels, unit prices, and suppliers.
-Order management: Create and manage orders, with features like product search, quantity selection, and total cost calculation.
-Logistics management: Enter shipping information, delivery address, and special instructions for each order, and track their status until they are delivered.
-User authentication: Secure login and registration for users, with password encryption and email verification.
-Responsive design: Mobile-friendly layout that adapts to different screen sizes and devices.
+- Inventory management: Add, edit, and delete products, and track their stock levels, unit prices, and suppliers.
+- Order management: Create and manage orders, with features like product search, quantity selection, and total cost calculation.
+- Logistics management: Enter shipping information, delivery address, and special instructions for each order, and track their status until they are delivered.
+- User authentication: Secure login and registration for users, with password encryption and email verification.
+- Responsive design: Mobile-friendly layout that adapts to different screen sizes and devices.
 
 # Installation
 To install this system on a server, follow these steps:
